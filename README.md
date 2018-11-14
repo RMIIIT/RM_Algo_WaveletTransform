@@ -1,9 +1,9 @@
 Haar Wavelet Transformation---Image Compression
 
 
-++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
+Haar wavelet transform image compression is an efficient way to perform both lossless and lossy image compression. It relies on averaging and differencing values in an image matrix to produce a matrix which is sparse or nearly sparse.
 
 Files Description::
 
